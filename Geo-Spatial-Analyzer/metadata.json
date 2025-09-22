@@ -1,0 +1,5 @@
+{
+  "name": "Geo-Spatial Image Analyzer",
+  "description": "An application to upload satellite or drone imagery, specify coordinates, and generate NDVI and NDWI analysis reports using AI. Users can upload an image, provide coordinates, and request an analysis.",
+  "requestFramePermissions": []
+}
